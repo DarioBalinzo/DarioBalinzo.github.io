@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Dario Balinzo - Backend Software Engineer
 
-You can use the [editor on GitHub](https://github.com/DarioBalinzo/DarioBalinzo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+:it: Remote Backend Developer, specializzato in programmazione java (precedentemente anche  scala) e golang . Disponibile per mentoring / formazione personalizzata / consulenza in italiano o inglese su i seguenti temi: Elasticsearch, Neo4j, MongoDB, Apache Kafka, Kafka Connect, Confluent Kafka, programmazione Java, Scala o Golang
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+:uk: Remote Backend Developer, specialized in java programming (formerly also scala) and golang. Available for mentoring / personalized training / consultancy on the following topics: Elasticsearch, Neo4j, MongoDB, Apache Kafka, Kafka Connect, Confluent Kafka, Java programming, Scala or Golang.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Contacts
 
-# Header 1
-## Header 2
-### Header 3
+Reach me on linkedin: https://www.linkedin.com/in/dario-balinzo/
+Or on github: https://github.com/DarioBalinzo
 
-- Bulleted
-- List
+### Talks
+- May 2021, Online, Italian Coders (Introduction to Apache Kafka :it: ) : https://www.youtube.com/watch?v=Qpqdu378r0s :it:
+- January 2020, JUG Turin, GraphQL APIs in Scala : https://jugtorino.org/2020/01/29/meeting-gennaio-2020.html
+- June 2018, PyconIT Florence, Python e Elasticsearch: dal Text Search a NLP e oltre : https://www.youtube.com/watch?v=t39lnVSROpQ :it:
+- May 2018, Kafka Mettup Rome: Developing a Custom Kafka Connector (based on https://dariobalinzo.medium.com/kafka-connect-elasticsearch-source-connector-1a8c16a0e8eb )
+- January 2018, Kafka Meetup Rome: https://www.slideshare.net/Codemotion/stefano-pampaloni-big-data-streaming-analysis-without-code :uk:
 
-1. Numbered
-2. List
+### Open Source Projects:
 
-**Bold** and _Italic_ and `Code` text
+- Main Contributor/Lead Developer, Kafka Connect ElasticSearch Source: https://github.com/DarioBalinzo/kafka-connect-elasticsearch-source / Relased as official Kafka connector in the Confluent hub (https://www.confluent.io/hub/dariobalinzo/kafka-connect-elasticsearch-source).
+- Contributor, Mr Plow, https://github.com/Ringloop/mr-plow
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DarioBalinzo/DarioBalinzo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Articles:
+- [Bloom Filter: come memorizzare 1 Milione di stringhe in meno di 2MB?
+](https://dariobalinzo.medium.com/bloom-filter-come-memorizzare-1-milione-di-stringhe-in-meno-di-2mb-c5116e5303c5) :it:
+- [Having fun with Immutable Data Structures: Implementing a Markov Chain in Scala](https://dariobalinzo.medium.com/having-fun-with-immutable-data-structures-implementing-a-markov-chain-in-scala-165a111e19f5) :uk:
+- [Hpc with scala and akka Actors](https://dariobalinzo.medium.com/hpc-with-scala-and-akka-actors-38e43aa87634) :uk:
+- [Kafka Connect: Elasticsearch source connector](https://dariobalinzo.medium.com/kafka-connect-elasticsearch-source-connector-1a8c16a0e8eb) :uk:
+- [Bitcoin Analytics with ELK (Elasticsearch, Logstash, Kibana)](https://medium.com/bitcoin-analytics-with-elk-elasticsearch-logstash/bitcoin-analytics-with-elk-elasticsearch-logstash-kibana-f67db8d9654c) :uk:
