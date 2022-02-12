@@ -1,5 +1,7 @@
 ## Dario Balinzo - Backend Software Engineer
 
+<img src="https://user-images.githubusercontent.com/7256185/153705009-616e6e89-e7fb-42e3-9e65-a75341e6acd7.png" width=17% height=17%>
+
 #### Chi sono (ita) ?
 Remote Backend Developer, specializzato in programmazione java (precedentemente anche  scala) e golang . Disponibile per mentoring / formazione personalizzata / consulenza in italiano o inglese su i seguenti temi: Elasticsearch, Neo4j, MongoDB, Apache Kafka, Kafka Connect, Confluent Kafka, programmazione Java, Scala o Golang
 
@@ -21,8 +23,8 @@ or on [github](https://github.com/DarioBalinzo).
 
 ### Open Source Projects:
 
-- Main Contributor/Lead Developer, Kafka Connect ElasticSearch Source: https://github.com/DarioBalinzo/kafka-connect-elasticsearch-source / Relased as official Kafka connector in the Confluent hub (https://www.confluent.io/hub/dariobalinzo/kafka-connect-elasticsearch-source).
-- Contributor, Mr Plow, https://github.com/Ringloop/mr-plow
+- Main Contributor/Lead Developer, [Kafka Connect ElasticSearch Source](https://github.com/DarioBalinzo/kafka-connect-elasticsearch-source), Relased as official Kafka connector in the [Confluent hub](https://www.confluent.io/hub/dariobalinzo/kafka-connect-elasticsearch-source).
+- Contributor, [Mr Plow](https://github.com/Ringloop/mr-plow)
 
 ### Articles:
 - [Bloom Filter: come memorizzare 1 Milione di stringhe in meno di 2MB?
