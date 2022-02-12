@@ -1,7 +1,5 @@
 ## Dario Balinzo - Backend Software Engineer
 
-<img src="https://user-images.githubusercontent.com/7256185/153705009-616e6e89-e7fb-42e3-9e65-a75341e6acd7.png" width=17% height=17%>
-
 #### Chi sono (ita) ?
 Remote Backend Developer, specializzato in programmazione java (precedentemente anche  scala) e golang . Disponibile per mentoring / formazione personalizzata / consulenza in italiano o inglese su i seguenti temi: Elasticsearch, Neo4j, MongoDB, Apache Kafka, Kafka Connect, Confluent Kafka, programmazione Java, Scala o Golang
 
