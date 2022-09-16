@@ -1,16 +1,5 @@
 ## Dario Balinzo - Backend Software Engineer
 
-#### Chi sono (ita) ?
-Remote Backend Developer, specializzato in programmazione java (precedentemente anche  scala) e golang . Disponibile per mentoring / formazione personalizzata / consulenza in italiano o inglese su i seguenti temi: Elasticsearch, Neo4j, MongoDB, Apache Kafka, Kafka Connect, Confluent Kafka, programmazione Java, Scala o Golang
-
-#### Who am I (eng) ?
-Remote Backend Developer, specialized in java programming (formerly also scala) and golang. Available for mentoring / personalized training / consultancy on the following topics: Elasticsearch, Neo4j, MongoDB, Apache Kafka, Kafka Connect, Confluent Kafka, Java programming, Scala or Golang.
-
-
-### Contacts
-
-Reach me on [linkedin](https://www.linkedin.com/in/dario-balinzo/), 
-or on [github](https://github.com/DarioBalinzo).
 
 ### Talks
 - December 2021, Turin, [Securing Web Apps](https://m0lecon.it/) 
@@ -31,3 +20,9 @@ or on [github](https://github.com/DarioBalinzo).
 - [Hpc with scala and akka Actors](https://dariobalinzo.medium.com/hpc-with-scala-and-akka-actors-38e43aa87634)
 - [Kafka Connect: Elasticsearch source connector](https://dariobalinzo.medium.com/kafka-connect-elasticsearch-source-connector-1a8c16a0e8eb)
 - [Bitcoin Analytics with ELK (Elasticsearch, Logstash, Kibana)](https://medium.com/bitcoin-analytics-with-elk-elasticsearch-logstash/bitcoin-analytics-with-elk-elasticsearch-logstash-kibana-f67db8d9654c)
+
+### Contacts
+
+Reach me on [linkedin](https://www.linkedin.com/in/dario-balinzo/), 
+or on [github](https://github.com/DarioBalinzo).
+
