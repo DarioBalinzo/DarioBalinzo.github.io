@@ -2,8 +2,8 @@
 
 
 ### Talks
+- January 2023, Online, [Exploring graph databases with Neo4j](https://www.youtube.com/watch?v=7oFCkWtNVyE)
 - January 2023, Online, [Introduction To Java Functional Programming](https://www.youtube.com/watch?v=kAw4nyKswHY)
-- December 2021, Turin, [Securing Web Apps](https://m0lecon.it/) 
 - December 2021, Turin, [Securing Web Apps](https://m0lecon.it/) 
 - May 2021, Online, Italian Coders, [Introduction to Apache Kafka](https://www.youtube.com/watch?v=Qpqdu378r0s)
 - January 2020, Turin, Java User Group Turin, [GraphQL APIs in Scala](https://jugtorino.org/2020/01/29/meeting-gennaio-2020.html) 
